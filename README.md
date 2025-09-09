@@ -33,7 +33,7 @@ The objective of this project is to build an **interactive, Excel-based business
 ## 📌 Project Workflow  
 
 ### 1️⃣ Loaded Dimension Tables  
-From <a href="/blob/main/Dim_Tables.xlsx">Dim_Table.xlsxs</a>, the following sheets were added to the **Power Pivot Data Model**:  
+From <a href="/Dim_Tables.xlsx">Dim_Table.xlsxs</a>, the following sheets were added to the **Power Pivot Data Model**:  
 - `Dim_Stores` → Stores Table  
 - `Dim_Products` → Products Table  
 - `Dim_Dates` → Date Table  
@@ -41,7 +41,7 @@ From <a href="/blob/main/Dim_Tables.xlsx">Dim_Table.xlsxs</a>, the following she
 ---
 
 ### 2️⃣ Loaded Fact Table  
-- From <a href="/blob/main/Dim_Tables.xlsx">SalesData.xlsx</a>, imported the **Sales** sheet into **Power Pivot**.  
+- From <a href="/Dim_Tables.xlsx">SalesData.xlsx</a>, imported the **Sales** sheet into **Power Pivot**.  
 - This acted as the **Fact Table** for the analysis.  
 
 ---
@@ -312,7 +312,7 @@ It highlights **strengths, seasonal patterns, and improvement areas** for effect
 ---
 
 ## 🚀 How to Use
-1. Open the `.xlsx` <a href="/blob/main/HeadRestBed_DashboardReport.xlsx">HeadRestBed_DashboardReport.xlsx</a> files in Excel (2016 or later with Power Pivot enabled).  
+1. Open the `.xlsx` <a href="/HeadRestBed_DashboardReport.xlsx">HeadRestBed_DashboardReport.xlsx</a> files in Excel (2016 or later with Power Pivot enabled).  
 2. Use the slicers to filter the data (Date, Location, Category, Brand, etc.).  
 3. Explore the interactive dashboards to analyze:
    - Overall business performance (Dashboard 1)  
