@@ -1,4 +1,5 @@
 # 🛏️ Head Rest Bed Company – Excel Dashboard Project
+<img width="1584" height="396" alt="banner" src="images/bed.png" />
 
 This project showcases two interactive dashboards built in **Excel** using **Power Query, Power Pivot, and Pivot Tables/Charts**.  
 The dashboards provide a business overview and store performance insights for the **Head Rest Bed Company**.
@@ -32,7 +33,7 @@ The objective of this project is to build an **interactive, Excel-based business
 ## 📌 Project Workflow  
 
 ### 1️⃣ Loaded Dimension Tables  
-From **Analysis.xlsx**, the following sheets were added to the **Power Pivot Data Model**:  
+From <a href="/blob/main/Dim_Tables.xlsx">Dim_Table.xlsxs</a>, the following sheets were added to the **Power Pivot Data Model**:  
 - `Dim_Stores` → Stores Table  
 - `Dim_Products` → Products Table  
 - `Dim_Dates` → Date Table  
@@ -40,7 +41,7 @@ From **Analysis.xlsx**, the following sheets were added to the **Power Pivot Dat
 ---
 
 ### 2️⃣ Loaded Fact Table  
-- From **SalesData.xlsx**, imported the **Sales** sheet into **Power Pivot**.  
+- From <a href="/blob/main/Dim_Tables.xlsx">SalesData.xlsx</a>, imported the **Sales** sheet into **Power Pivot**.  
 - This acted as the **Fact Table** for the analysis.  
 
 ---
@@ -202,7 +203,7 @@ SalesVsPY :=
 - Monthly sales trend chart (bar chart)
 
 ### Screenshot
-![Business Overview](d756efd4-4657-45ff-a154-875c08384e11.png)
+<img width="1584" height="396" alt="banner" src="images/Business Overview.png" />
 
 ---
 
@@ -219,7 +220,7 @@ SalesVsPY :=
 - Highlight managers’ contribution with clear performance status  
 
 ### Screenshot
-![Store Performance](5c80716a-9c6e-4d1a-a31f-b468b9ce20b8.png)
+<img width="1584" height="396" alt="banner" src="images/Store-Performance.png" />
 
 ---
 
@@ -311,7 +312,7 @@ It highlights **strengths, seasonal patterns, and improvement areas** for effect
 ---
 
 ## 🚀 How to Use
-1. Open the `.xlsx` files in Excel (2016 or later with Power Pivot enabled).  
+1. Open the `.xlsx` <a href="/blob/main/HeadRestBed_DashboardReport.xlsx">HeadRestBed_DashboardReport.xlsx</a> files in Excel (2016 or later with Power Pivot enabled).  
 2. Use the slicers to filter the data (Date, Location, Category, Brand, etc.).  
 3. Explore the interactive dashboards to analyze:
    - Overall business performance (Dashboard 1)  
