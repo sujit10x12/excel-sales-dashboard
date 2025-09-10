@@ -1,7 +1,7 @@
 # 🛏️ Head Rest Bed Company – Excel Dashboard Project
 <img width="1584" height="396" alt="banner" src="images/bed.png" />
 
-This project showcases two interactive dashboards built in **Excel** using **Power Query, Power Pivot, and Pivot Tables/Charts**.  
+This project showcases two Interactive, slick-looking dashboards built in **Excel** using **Power Query, Power Pivot, and Pivot Tables/Charts**.  
 The dashboards provide a business overview and store performance insights for the **Head Rest Bed Company**.
 
 ---
