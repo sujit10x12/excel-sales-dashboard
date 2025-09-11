@@ -312,7 +312,7 @@ It highlights **strengths, seasonal patterns, and improvement areas** for effect
 ---
 
 ## 🚀 How to Use
-1. Open the `.xlsx` <a href="/HeadRestBed_DashboardReport.xlsx">HeadRestBed_DashboardReport.xlsx</a> files in Excel (2016 or later with Power Pivot enabled).  
+1. Open the <a href="/HeadRestBed_DashboardReport.xlsx">HeadRestBed_DashboardReport.xlsx</a> files in Excel (2016 or later with Power Pivot enabled).  
 2. Use the slicers to filter the data (Date, Location, Category, Brand, etc.).  
 3. Explore the interactive dashboards to analyze:
    - Overall business performance (Dashboard 1)  
